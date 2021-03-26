@@ -1,6 +1,7 @@
 #Include lib\IME.ahk
 
-PrintScreen::Send { Click Right }
+RAlt::Send { AppsKey }
+PrintScreen::Send { AppsKey }
 vk1Dsc07B & H::Send,{Blind}{Left}
 vk1Dsc07B & J::Send,{Blind}{Down}
 vk1Dsc07B & K::Send,{Blind}{Up}
