@@ -6,5 +6,6 @@ vk1Dsc07B & H::Send,{Blind}{Left}
 vk1Dsc07B & J::Send,{Blind}{Down}
 vk1Dsc07B & K::Send,{Blind}{Up}
 vk1Dsc07B & L::Send,{Blind}{Right}
+vkF0sc03A::Send { Ctrl }
 
 vk1Dsc07B::IME_SET(0)
