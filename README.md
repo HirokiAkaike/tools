@@ -17,10 +17,12 @@ AUTO HOST KEYを利用すると誤作動が多いですが、シンプルなが�
   ・cursor.ahk  <br/>
   ・/lib  <br/>
 ②パスウィンドウに shell:startupを入力する。 <br/>
+③フォルダにcursor.ahkのリンクを貼る <br/>
+  →　スタートアップの設定 <br/>
 
- を配置する
+ を配置する <br/>
  
- 参考）
- キーリストを参照するためのwikiページ
+ 参考） <br/>
+ キーリストを参照するためのwikiページ <br/>
  http://ahkwiki.net/KeyList#.E3.82.AD.E3.83.BC.E3.83.9C.E3.83.BC.E3.83.89.E3.81.8B.E3.82.89.E8.AA.BF.E3.81.B9.E3.82.8B
  
