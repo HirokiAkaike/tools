@@ -2,10 +2,12 @@
 
 RAlt::Send { AppsKey }
 PrintScreen::Send { AppsKey }
-vk1Dsc07B & H::Send,{Blind}{Left}
-vk1Dsc07B & J::Send,{Blind}{Down}
-vk1Dsc07B & K::Send,{Blind}{Up}
-vk1Dsc07B & L::Send,{Blind}{Right}
-vkF0sc03A::Send { Ctrl }
+sc07B & H::Send,{Blind}{Left}
+sc07B & J::Send,{Blind}{Down}
+sc07B & K::Send,{Blind}{Up}
+sc07B & L::Send,{Blind}{Right}
+sc07B & i:: Send, {PgUp}
+sc07B & m:: Send, {PgDn}
+sc03A::Send { Ctrl }
 
-vk1Dsc07B::IME_SET(0)
+sc07B::IME_SET(0)
